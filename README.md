@@ -8,7 +8,7 @@ What this small plugin does (at least for now) is convert each of the panels int
 Getting Started
 ---------------
 
-	git submodule add https://github.com/ibolmo/sfConsoleDebugPlugin.git plugins/sfConsoleDebugPlugin
+	git submodule add git://github.com/ibolmo/sfConsoleDebug.git plugins/sfConsoleDebugPlugin
 	
 	# $this->enablePlugins('sfConsoleDebugPlugin') in
 	$EDITOR config/ProjectConfiguration.class.php
